@@ -19,7 +19,7 @@ Features
 * Database-agnostic simulator design
 
 Project Structure
-
+```
 DB_simulator/
 │
 ├── app.py                  # Streamlit dashboard
@@ -34,7 +34,7 @@ DB_simulator/
 │   └── query.py            # Read queries
 │
 └── README.txt
-
+```
 Prerequisites
 
 * Python 3.9+
